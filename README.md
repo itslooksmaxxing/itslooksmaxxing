@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @itslooksmaxxing
-- 👀 I’m interested in web development and looksmaxxing
+- 👋 Hi
+- 👀 I’m interested in web developmen
 - 🌱 I’m currently learning html ,css and java
 - 📫 instagram : @itslooksmaxxing
 
